@@ -8,3 +8,6 @@ Problems which need to re-think:
 * [331](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)
 * [330](https://leetcode.com/problems/patching-array/)
 * [327](https://leetcode.com/problems/count-of-range-sum/)
+* [324](https://leetcode.com/problems/wiggle-sort-ii/)
+* [316](https://leetcode.com/problems/remove-duplicate-letters/)
+
